@@ -28,6 +28,7 @@ That's it. Along with the `setup.sh` script you find in this repo, the buildpack
     - **Prod Org : "ProdOrg"**: this is your production org
 
     Note: you could cheat and, simply for demo purposes, use the same org for the DevOrg, TestOrg, and ProdOrg.
+    Note2: you can get a Trial org with Dev hub at https://developer.salesforce.com/promotions/orgs/dx-signup
 
 4. Ensure you see all four orgs when you run `sfdx force:org:list`.
 
